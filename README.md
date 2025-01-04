@@ -143,6 +143,101 @@ This report provides an analysis of credit card transactions, focusing on key pe
 This report highlights the dominance of Blue Cards in revenue generation and Swipe as the most preferred transaction method. It also provides valuable insights into customer behavior segmented by education, job type, and expenditure categories. These findings can guide strategies to maximize revenue and optimize service offerings.
 
 
+# Credit Card Customer Report
+
+This report provides an overview of key customer metrics, segmented by demographics, income levels, job types, states, and other factors, offering valuable insights for strategic planning and revenue growth.
+
+---
+
+## Key Metrics
+- **Total Revenue:** 55M
+- **Total Income:** 576M
+- **Total Interest Earned:** 7.84M
+- **Customer Satisfaction Score (CSS):** 3.19
+
+---
+
+## Revenue Insights
+
+### 1. **Revenue by Week**
+- Revenue fluctuates between 0.2M and 0.8M throughout the year.
+- Notable spikes occurred in **July 2023** and other months.
+
+### 2. **Revenue by Income**
+- **High-Income Group:** 29M
+- **Medium-Income Group:** 16M
+- **Low-Income Group:** 10M
+
+### 3. **Revenue by Age**
+- **40-50 Years Old:** 24M (highest contributor)
+- **50-60 Years Old:** 18M
+- **30-40 Years Old:** 10M
+- **20-30 Years Old:** 1M
+- **60+ Years Old:** 2M
+
+### 4. **Revenue by Job Type**
+- **Businessmen:** 17M (highest contributor)
+- **White-Collar Professionals:** 10M
+- **Self-Employed & Government Workers:** 8M each
+- **Blue-Collar Workers:** 7M
+- **Retirees:** 5M
+
+### 5. **Revenue by Education**
+- **Graduates:** 22M (highest contributor)
+- **High School:** 11M
+- **Unknown & Uneducated:** 8M each
+- **Post-Graduate:** 3M
+- **Doctorate:** 2M
+
+---
+
+## State-Wise Revenue
+- **Texas (TX):** 12.8M
+- **New York (NY):** 12.7M
+- **California (CA):** 12.6M
+- **Florida (FL):** 9.7M
+- **New Jersey (NJ):** 4.2M
+
+---
+
+## Revenue by Gender
+- **Male:** 30M
+- **Female:** 25M
+
+---
+
+## Quarterly Revenue
+- **Q1:** 
+  - 13.3M
+- **Q2:**
+  - 13.8M
+- **Q3:** 
+  - 14.2M
+- **Q4:** 
+  - 14.0M
+
+---
+
+## Revenue by Card Type
+- **Silver:** Highest contributor
+- **Blue, Gold, Platinum:** Contributing lesser amounts.
+
+---
+
+## Revenue by Customer Segments
+- **Spending Levels:**
+  - **High Spend:** Significant portion of revenue.
+  - **Medium & Low Spend:** Moderate and minimal contributions, respectively.
+
+---
+
+## Conclusion
+This report highlights that the **40-50 age group, high-income individuals, businessmen, and graduates** are the largest contributors to revenue. **Texas, New York, and California** dominate state-wise revenues, while **male customers** outspend females slightly. Quarterly revenue remains steady, with slight variations across Q1 to Q4.
+
+These insights can guide targeted marketing strategies, product enhancements, and customer retention efforts.
+
+
+
 
 
 
