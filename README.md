@@ -11,3 +11,19 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 1. Prepare CSV file.
 2. Create tables in SQL.
 3. Import CSV file into SQL.
+
+### Step 2: Write DAX Queries
+
+#### Creating Age Group Column
+```DAX
+AgeGroup = SWITCH(
+    TRUE(),
+    'ccdb cust_detail'[Customer_Age] < 30, "20-30",
+    'ccdb cust_detail'[Customer_Age] >= 30 && 'ccdb cust_detail'[customer_age] < 40, "30-40",
+    'ccdb cust_detail'[Customer_Age] >= 40 && 'ccdb cust_detail'[customer_age] < 50, "40-50",
+    'ccdb cust_detail'[Customer_Age] >= 50 && 'ccdb cust_detail'[customer_age] < 60, "50-60",
+    'ccdb cust_detail'[Customer_Age] >= 60, "60+",
+    "unknown"
+)
+
+   
