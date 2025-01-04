@@ -90,7 +90,7 @@ This report provides an analysis of credit card transactions, focusing on key pe
   - Revenue: 6M
   - Interest Earned: 812K
 - **Gold Cards:** 
-  - Revenue: 2.02M
+  - Revenue: 2M
   - Interest Earned: 374K
 - **Platinum Cards:** 
   - Revenue: 953K
