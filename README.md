@@ -41,7 +41,7 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     Revenue = 'ccdb cc_detail'[Annual_Fees] + 'ccdb cc_detail'[total_trans_amt] + 'ccdb cc_detail'[interest_earned]
 
    
- #### Calculating measure 'current week revenue' 
+ #### Calculating measure of 'current week revenue' 
 
     Current_week_Revenue = CALCULATE(
     SUM('ccdb cc_detail'[Revenue]),
@@ -57,5 +57,10 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     FILTER(
     ALL('ccdb cc_detail'),
     'ccdb cc_detail'[week_num2] = MAX('ccdb cc_detail'[week_num2])-1))
+
+#### Calculating week over week revenue 
+
+    wow_revenue = DIVIDE(([Current_week_Reveneue] - [Previous_week_Reveneue]),[Previous_week_Reveneue])
+
 
    
