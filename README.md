@@ -217,8 +217,7 @@ This report provides an overview of key customer metrics, segmented by demograph
 ---
 
 ### Conclusion
-This report highlights that the **40-50 age group, high-income individuals, businessmen, and graduates** are the largest contributors to revenue. **Texas, New York, and California** dominate state-wise revenues, while **male customers** outspend females slightly. Quarterly revenue remains steady, with slight variations across Q1 to Q4.
-
+This report highlights that the 40-50 age group, high-income individuals, businessmen, and graduates are the largest contributors to revenue. Texas, New York, and California dominate state-wise revenues, while male customers outspend females slightly. 
 These insights can guide targeted marketing strategies, product enhancements, and customer retention efforts.
 
 
