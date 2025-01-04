@@ -26,4 +26,14 @@ AgeGroup = SWITCH(
     "unknown"
 )
 
+#### Creating IncomeGroup column
+
+IncomeGroup = SWITCH(
+TRUE(),
+'ccdb cust_detail'[income] < 35000, "Low",
+'ccdb cust_detail'[income] >= 35000 && 'ccdb cust_detail'[income] <70000, "Med",
+'ccdb cust_detail'[income] >= 70000, "High",
+"unknown"
+)
+
    
