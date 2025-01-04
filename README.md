@@ -4,6 +4,8 @@ power bi dashboard
 ## Project Objective
 The objective of this project is to develop a comprehensive Credit Card Weekly Dashboard that provides real-time insights into key performance metrics and trends. This dashboard enables stakeholders to monitor and analyze credit card operations effectively, facilitating data-driven decision-making and operational efficiency.
 
+
+
 ## Steps followed
 
 ### Step 1: Import Data to SQL Database
@@ -61,6 +63,7 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 #### Calculating week over week revenue 
 
     wow_revenue = DIVIDE(([Current_week_Reveneue] - [Previous_week_Reveneue]),[Previous_week_Reveneue])
+    
 
 
 ## Key Insights
