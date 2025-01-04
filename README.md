@@ -63,4 +63,10 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     wow_revenue = DIVIDE(([Current_week_Reveneue] - [Previous_week_Reveneue]),[Previous_week_Reveneue])
 
 
+## Key Insights
+
+
+
+
+
    
