@@ -209,24 +209,6 @@ This report provides an overview of key customer metrics, segmented by demograph
 
 ---
 
-#### Quarterly Revenue
-- **Q1:** 
-  - 13.3M
-- **Q2:**
-  - 13.8M
-- **Q3:** 
-  - 14.2M
-- **Q4:** 
-  - 14.0M
-
----
-
-#### Revenue by Card Type
-- **Silver:** Highest contributor
-- **Blue, Gold, Platinum:** Contributing lesser amounts.
-
----
-
 #### Revenue by Customer Segments
 - **Spending Levels:**
   - **High Spend:** Significant portion of revenue.
