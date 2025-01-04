@@ -52,10 +52,10 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 
  #### Calculating measure of 'previous week revenue'
 
-   Previous_week_Revenue = CALCULATE(
-   SUM('ccdb cc_detail'[Revenue]),
-   FILTER(
-   ALL('ccdb cc_detail'),
-   'ccdb cc_detail'[week_num2] = MAX('ccdb cc_detail'[week_num2])-1))
+    Previous_week_Revenue = CALCULATE(
+    SUM('ccdb cc_detail'[Revenue]),
+    FILTER(
+    ALL('ccdb cc_detail'),
+    'ccdb cc_detail'[week_num2] = MAX('ccdb cc_detail'[week_num2])-1))
 
    
