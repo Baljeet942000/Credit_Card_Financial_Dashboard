@@ -67,10 +67,10 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 
 
 
+## Credit Card Transaction Report
 
 ![image alt](https://github.com/Baljeet942000/Credit_Card_Financial_Dashboard/blob/3104cd4998967b0583fe851eb08d944071a30ad0/credit_card_transaction_report.jpg)
 
-## Credit Card Transaction Report
 
 This report provides an analysis of credit card transactions, focusing on key performance metrics such as revenue, transaction methods, and customer segmentation.
 
