@@ -36,8 +36,8 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     "unknown"
     )
 
-#### Creating a Revenue column
+ #### Creating a Revenue column
 
-   Revenue = 'ccdb cc_detail'[Annual_Fees] + 'ccdb cc_detail'[total_trans_amt] + 'ccdb cc_detail'[interest_earned]
+    Revenue = 'ccdb cc_detail'[Annual_Fees] + 'ccdb cc_detail'[total_trans_amt] + 'ccdb cc_detail'[interest_earned]
 
    
