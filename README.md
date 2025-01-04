@@ -68,6 +68,8 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 
 ## Key Insights
 
+![image alt](https://github.com/Baljeet942000/Credit_Card_Financial_Dashboard/blob/3104cd4998967b0583fe851eb08d944071a30ad0/credit_card_transaction_report.jpg)
+
 
 
 
