@@ -145,6 +145,8 @@ This report highlights the dominance of Blue Cards in revenue generation and Swi
 
 # Credit Card Customer Report
 
+![image alt](https://github.com/Baljeet942000/Credit_Card_Financial_Dashboard/blob/76ca11c32ff1c7b64b4cf596707d384146e1841f/credit_card_customer_report.jpg)
+
 This report provides an overview of key customer metrics, segmented by demographics, income levels, job types, states, and other factors, offering valuable insights for strategic planning and revenue growth.
 
 ---
