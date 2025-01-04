@@ -43,10 +43,19 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
    
  #### Calculating measure 'current week revenue' 
 
-    Current_week_Reveneue = CALCULATE(
+    Current_week_Revenue = CALCULATE(
     SUM('ccdb cc_detail'[Revenue]),
     FILTER(
     ALL('ccdb cc_detail'),
     'ccdb cc_detail'[week_num2] = MAX('ccdb cc_detail'[week_num2])))
+
+
+ #### Calculating measure of 'previous week revenue'
+
+   Previous_week_Revenue = CALCULATE(
+   SUM('ccdb cc_detail'[Revenue]),
+   FILTER(
+   ALL('ccdb cc_detail'),
+   'ccdb cc_detail'[week_num2] = MAX('ccdb cc_detail'[week_num2])-1))
 
    
