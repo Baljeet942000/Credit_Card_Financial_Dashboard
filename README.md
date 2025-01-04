@@ -15,7 +15,7 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 ### Step 2: Write DAX Queries
 
  #### Creating Age Group Column
-    ```DAX
+    
     AgeGroup = SWITCH(
         TRUE(),
         'ccdb cust_detail'[Customer_Age] < 30, "20-30",
@@ -27,7 +27,7 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     )
 
  #### Creating IncomeGroup column
-    ```DAX
+    
     IncomeGroup = SWITCH(
     TRUE(),
     'ccdb cust_detail'[income] < 35000, "Low",
