@@ -73,7 +73,7 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
 
 
 This report provides an analysis of credit card transactions, focusing on key performance metrics such as revenue, transaction methods, and customer segmentation.
-
+---
 ### Key Insights
 
 #### 1. **Overall Metrics**
@@ -81,7 +81,7 @@ This report provides an analysis of credit card transactions, focusing on key pe
 - **Total Transactions:** 45M
 - **Total Interest Earned:** 7.84M
 - **Total Transaction Count:** 656K
-
+---
 #### 2. **Revenue by Card Category**
 - **Blue Cards:** 
   - Revenue: 46M
@@ -95,12 +95,12 @@ This report provides an analysis of credit card transactions, focusing on key pe
 - **Platinum Cards:** 
   - Revenue: 1M
   - Interest Earned: 162K
-
+---
 #### 3. **Revenue by Transaction Method**
 - **Swipe Transactions:** 35M
 - **Chip Transactions:** 17M
 - **Online Transactions:** 3M
-
+---
 #### 4. **Quarterly Performance**
 - **Q1:**
   - Revenue: 14M
@@ -114,14 +114,14 @@ This report provides an analysis of credit card transactions, focusing on key pe
 - **Q4:**
   - Revenue: 13.3M
   - Transaction Count: 161.6K
-
+---
 #### 5. **Revenue by Expenditure Type**
 - **Bills:** 14M
 - **Entertainment:** 10M
 - **Fuel and Grocery:** 9M each
 - **Food:** 8M
 - **Travel:** 6M
-
+---
 #### 6. **Revenue by Customer Segmentation**
 - **By Education Type:**
   - Graduates contribute the highest revenue: 22M.
@@ -132,13 +132,13 @@ This report provides an analysis of credit card transactions, focusing on key pe
   - White-collar professionals: 10M.
   - Self-employed and Government workers: 8M each.
   - Retirees: 5M.
-
+---
 #### 7. **Revenue by Card Category**
 - **Blue Cards:** 46M
 - **Silver Cards:** 6M
 - **Gold Cards:** 2M
 - **Platinum Cards:** 1M
-
+---
 ### Conclusion
 This report highlights the dominance of Blue Cards in revenue generation and Swipe as the most preferred transaction method. It also provides valuable insights into customer behavior segmented by education, job type, and expenditure categories. These findings can guide strategies to maximize revenue and optimize service offerings.
 
