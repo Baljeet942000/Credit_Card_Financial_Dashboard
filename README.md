@@ -27,7 +27,7 @@ AgeGroup = SWITCH(
 )
 
 #### Creating IncomeGroup column
-
+```DAX
 IncomeGroup = SWITCH(
 TRUE(),
 'ccdb cust_detail'[income] < 35000, "Low",
