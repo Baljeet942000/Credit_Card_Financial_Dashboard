@@ -66,15 +66,15 @@ The objective of this project is to develop a comprehensive Credit Card Weekly D
     
 
 
-## Key Insights
+
 
 ![image alt](https://github.com/Baljeet942000/Credit_Card_Financial_Dashboard/blob/3104cd4998967b0583fe851eb08d944071a30ad0/credit_card_transaction_report.jpg)
 
-# Credit Card Transaction Report
+## Credit Card Transaction Report
 
 This report provides an analysis of credit card transactions, focusing on key performance metrics such as revenue, transaction methods, and customer segmentation.
 
-## Key Insights
+### Key Insights
 
 #### 1. **Overall Metrics**
 - **Total Revenue:** 55M
@@ -139,7 +139,7 @@ This report provides an analysis of credit card transactions, focusing on key pe
 - **Gold Cards:** 2M
 - **Platinum Cards:** 1M
 
-## Conclusion
+### Conclusion
 This report highlights the dominance of Blue Cards in revenue generation and Swipe as the most preferred transaction method. It also provides valuable insights into customer behavior segmented by education, job type, and expenditure categories. These findings can guide strategies to maximize revenue and optimize service offerings.
 
 
