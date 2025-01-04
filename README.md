@@ -84,7 +84,7 @@ This report provides an analysis of credit card transactions, focusing on key pe
 
 #### 2. **Revenue by Card Category**
 - **Blue Cards:** 
-  - Revenue: 36.96M
+  - Revenue: 46M
   - Interest Earned: 6.49M
 - **Silver Cards:** 
   - Revenue: 4.59M
